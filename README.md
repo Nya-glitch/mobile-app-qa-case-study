@@ -1,6 +1,6 @@
 # Mobile App QA Case Study
 
-A manual QA case study on an Android property-management app (name withheld; shared with the developer's permission). It covers test planning, test execution, bug reporting and usability review.
+A manual QA case study on an Android property-management app ((Begah Homes, shared with the developer's permission)). It covers test planning, test execution, bug reporting and usability review.
 
 ## What I did
 - Wrote a test plan covering 11 phases, with a severity guide
